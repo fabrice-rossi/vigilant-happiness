@@ -5,6 +5,7 @@ format: html
 ---
 
 ## QE
+- Roberto Canu
 
 - ADRIEL THE GOAT BRRRRRRRRRRRRR
 - Little girl Matei
