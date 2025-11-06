@@ -1,0 +1,17 @@
+---
+title: "cirque-du-soleil"
+author: "Betty Krebs"
+format: html
+---
+
+```{r}
+data("UKgas")
+library(ggplot2)
+```
+
+```{r}
+UKgas |>
+  ggplot(aes(x)+
+           geom_bar) 
+```
+
